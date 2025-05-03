@@ -1,0 +1,2 @@
+C:\Users\rlagu\Desktop\C workspace\cpu_load\x64\Debug\cpu_load.exe
+C:\Users\rlagu\Desktop\25-1\운영체제\cpu_load\x64\Debug\cpu_load.exe
